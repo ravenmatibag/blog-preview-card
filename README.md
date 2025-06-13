@@ -1,1 +1,1 @@
-Blog Review Card Using HTML AND CSS
+Blog Review Card Using HTML & CSS
